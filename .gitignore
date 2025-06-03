@@ -1,0 +1,22 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel/Output
+output/*.xlsx
+output/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
